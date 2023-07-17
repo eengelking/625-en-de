@@ -1,5 +1,5 @@
 # 625-en-de
-This docuemnt takes the 625 word list from Gabriel Wyner and converts the English to German.
+This docuemnt takes the 625 word list from Gabriel Wyner and converts the English to German. If you find any issues, please feel free to submit a PR.
 
 # Animal
 * dog [Hund]
@@ -55,9 +55,7 @@ This docuemnt takes the 625 word list from Gabriel Wyner and converts the Englis
 * hospital [Krankenhaus]
 * church [Kirche]
 * market [Markt]
-* country (USA
-* France
-* etc.) [Land]
+* country [Land]
 * building [Gebäude]
 * ground [Boden]
 * space (outer space) [Weltraum]
